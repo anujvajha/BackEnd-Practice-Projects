@@ -18,5 +18,9 @@ Everyone (logged in or not) can view public blog posts. Includes a **basic front
 - 🗄️ MongoDB, Mongoose  
 - 🔒 JSON Web Token (JWT) for Authentication  
 
+## 🚀 Installation
+Clone the repository and install dependencies with `npm install`.
+
+
 
 
