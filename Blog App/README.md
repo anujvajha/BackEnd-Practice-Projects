@@ -15,3 +15,6 @@ A simple **Blog App** where users can sign up, log in, and manage their blogs.
 - Node.js & Express  
 - MongoDB / Mongoose  
 - JWT for authentication    
+
+## 🚀 Installation
+Clone the repository and install dependencies with `npm install`.
