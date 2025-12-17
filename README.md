@@ -8,7 +8,6 @@ Includes projects with authentication, CRUD operations, and basic frontends for 
 - 📝 Multiple backend projects in one repository  
 - 🔐 User authentication (JWT-based)  
 - 🖊️ CRUD operations (create, read, update, delete)  
-- 👀 Public and private routes  
 - 💻 Basic frontends for some projects to test APIs  
 - ⚡ Fast & simple backend implementations  
 
