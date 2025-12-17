@@ -1,0 +1,28 @@
+<%- include('partials/header'); %>
+
+<main class="container">
+  <h1 class="page-title">Latest Blog Posts</h1>
+
+  <% if (blogs.length === 0) { %>
+    <p class="empty-text">No blog posts available.</p>
+  <% } %>
+
+  <div class="blog-list">
+    <% blogs.forEach(blog => { %>
+      <div class="blog-card">
+        <h2><%= blog.title %></h2>
+
+        <p class="meta">
+          By <%= blog.author %>
+        </p>
+
+        <p class="excerpt">
+          <%= blog.content.substring(0, 150) %>
+        </p>
+        
+      </div>
+    <% }) %>
+  </div>
+</main>
+
+<%- include('partials/footer'); %>
