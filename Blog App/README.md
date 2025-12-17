@@ -1,6 +1,6 @@
 # 📝 Blog App 
 
-A simple **Blog App** where users can sign up, log in, and manage their blogs.  
+A simple **Blog App** where users can sign up, log in, and manage their blogs and read public blog posts.  
 
 ## **Features ✨**
 
@@ -18,3 +18,4 @@ A simple **Blog App** where users can sign up, log in, and manage their blogs.
 
 ## 🚀 Installation
 Clone the repository and install dependencies with `npm install`.
+
