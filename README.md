@@ -1,7 +1,7 @@
 # 🚀 BackEnd Practice Projects
 
 A collection of **backend projects** for learning and practice purposes.  
-Includes projects with authentication, CRUD operations, and basic frontends for testing APIs.  
+Includes projects with authentication, CRUD operations and basic frontends for testing APIs.  
 
 
 ## ✨ Features
